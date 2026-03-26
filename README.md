@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Neej Butani 👋
 
 🎓 Branch: Computer Science And Engineering
