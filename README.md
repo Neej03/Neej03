@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Neej03/Neej03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Neej Butani 👋
 
-Here are some ideas to get you started:
+🎓 Branch: Computer Science And Engineering
+📅 Year: 1st Year  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About Me:  
+I am passionate about learning programming, problem-solving, and building real-world projects. Over the next few years, I aim to develop strong skills in software development and explore fields like AI and data science.
+
+🚀 Goals:
+- Improve coding skills
+- Build impactful projects
+- Contribute to open source
